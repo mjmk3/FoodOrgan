@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-category',
+  selector: 'app-productCategory',
   standalone: true,
   imports: [],
   templateUrl: './category.component.html',
